@@ -1,0 +1,70 @@
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\AP.Gui.exe.config
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\AP.Gui.exe
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\AP.Gui.pdb
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\AP.Logic.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\OxyPlot.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\OxyPlot.Xps.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\System.Web.Http.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\AP.Logic.pdb
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\OxyPlot.xml
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\OxyPlot.Xps.xml
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\System.Web.Http.xml
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\CS.Gui.csprojResolveAssemblyReference.cache
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\MainWindow.g.cs
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\App.g.cs
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\AP.Gui_MarkupCompile.cache
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\AP.Gui_MarkupCompile.lref
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\MainWindow.baml
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\AP.Gui.g.resources
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\AP.Gui.Properties.Resources.resources
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\CS.Gui.csproj.GenerateResource.Cache
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\AP.Gui.exe
+C:\Users\NazarRock\Desktop\Kursova\CS.Gui\obj\Debug\AP.Gui.pdb
+D:\Прикладна Математика\ПМ-42\Kursova\CS.Gui\bin\Debug\AP.Gui.exe.config
+D:\Прикладна Математика\ПМ-42\Kursova\CS.Gui\obj\Debug\AP.Gui.exe
+D:\Прикладна Математика\ПМ-42\Kursova\CS.Gui\obj\Debug\AP.Gui.pdb
+D:\Прикладна Математика\ПМ-42\Kursovaчис\CS.Gui\bin\Debug\AP.Gui.exe.config
+D:\Прикладна Математика\ПМ-42\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.exe
+D:\Прикладна Математика\ПМ-42\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.pdb
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\AP.Gui.exe.config
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.exe
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.pdb
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\CS.Gui.csprojResolveAssemblyReference.cache
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\MainWindow.g.cs
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\App.g.cs
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\AP.Gui_MarkupCompile.cache
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\AP.Gui_MarkupCompile.lref
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\AP.Gui.exe
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\AP.Gui.pdb
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\AP.Logic.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\OxyPlot.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\OxyPlot.Xps.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\System.Web.Http.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\AP.Logic.pdb
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\OxyPlot.xml
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\OxyPlot.Xps.xml
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\System.Web.Http.xml
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\bin\Debug\ru\System.Web.Http.resources.dll
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\MainWindow.baml
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.g.resources
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.Properties.Resources.resources
+C:\Users\NazarRock\Desktop\Kursovaчис\CS.Gui\obj\Debug\CS.Gui.csproj.GenerateResource.Cache
+D:\Kursovaчис\CS.Gui\bin\Debug\AP.Gui.exe.config
+D:\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.exe
+D:\Kursovaчис\CS.Gui\obj\Debug\AP.Gui.pdb
+D:\Курсова_Хандоги_Назара_ЧМ1\CS.Gui\bin\Debug\AP.Gui.exe.config
+D:\Курсова_Хандоги_Назара_ЧМ1\CS.Gui\obj\Debug\AP.Gui.exe
+D:\Курсова_Хандоги_Назара_ЧМ1\CS.Gui\obj\Debug\AP.Gui.pdb

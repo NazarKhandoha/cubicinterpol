@@ -1,0 +1,5 @@
+C:\Users\NazarRock\Desktop\Kursova\CS.Logic\bin\Debug\AP.Logic.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Logic\bin\Debug\AP.Logic.pdb
+C:\Users\NazarRock\Desktop\Kursova\CS.Logic\obj\Debug\CS.Logic.csprojResolveAssemblyReference.cache
+C:\Users\NazarRock\Desktop\Kursova\CS.Logic\obj\Debug\AP.Logic.dll
+C:\Users\NazarRock\Desktop\Kursova\CS.Logic\obj\Debug\AP.Logic.pdb
